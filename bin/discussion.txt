@@ -1,0 +1,14 @@
+• How did the three data structures compare in your tests?
+the Robin Hood and the hash table are greatly faster than the sorted array.
+
+• Is any significantly faster than the other?
+yes for my test's the robin hood and simple hash table where faster significantly faster than the array.
+
+• Does the Robin Hood hashing improve on the basic hash table?
+a little bit.
+
+• Did you expect the results that occurred? Why?
+yes, because when we did the analysis of the functions in class sorted array was the worst
+
+• What do you predict the results would be if you increased the database size to two million?
+it will run faster in robin hood than the other two because it should run faster in larger databases.
